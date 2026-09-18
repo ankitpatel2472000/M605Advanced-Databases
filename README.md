@@ -1,9 +1,7 @@
 # Logistics Fleet & Delivery Optimization Engine (M605 Advanced Databases)
 
-- **GitHub Repository:** https://github.com/Ankitpatel008/Logistics-Fleet-Database-System
-- **Video Demonstration URL:** https://youtu.be/m605-logistics-fleet-walkthrough (3-5 min technical walkthrough)
+-- **Video Demonstration URL:https://youtu.be/aFmqyRKvOv4
 
----
 
 ## Project Overview
 This repository contains the database architecture, procedural seeder pipelines, performance-optimized queries, compliance auditing triggers, and concurrency control scripts for the **Logistics Fleet & Delivery Optimization Engine**. Developed for the M605 Advanced Databases individual project at Gisma University of Applied Sciences, the system runs on **MySQL 8.0 / InnoDB** to manage structured urban parcel logistics, courier shifts, vehicle maintenance logs, and real-time fleet balancing under strict ACID compliance.
