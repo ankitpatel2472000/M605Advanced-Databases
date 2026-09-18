@@ -1,0 +1,111 @@
+courier_id,service_date,maintenance_type,cost,workshop_name,notes
+1,2026-06-01,Emergency Brake Cable Swap,46.0,Urban Mobility Hub,Inner cable and housing replaced
+2,2026-06-02,Emergency Brake Cable Swap,41.0,Berlin Bike Care,Inner cable and housing replaced
+3,2026-06-04,Cargo Rack Re-anchoring,48.0,Volt Fleet Services,Reinforced mounting bolts installed
+4,2026-06-03,Wheel Truing & Spoke Tension,55.0,Mitte Cycle Works,Rim alignment corrected
+5,2026-06-06,Chain & Gear Adjustment,55.0,Spree E-Mobility,Drivetrain cleaned and lubricated
+6,2026-06-06,Suspension Fork Overhaul,110.0,Berlin Bike Care,Wiper seals replaced and oil refilled
+7,2026-06-06,Throttle Sensor Calibration,42.0,Mitte Cycle Works,Throttle sensor dead-zone calibrated
+8,2026-06-08,Annual Safety Inspection,122.5,Spree E-Mobility,Full TUV and road-readiness compliance check
+9,2026-06-08,Throttle Sensor Calibration,37.0,Mitte Cycle Works,Throttle sensor dead-zone calibrated
+10,2026-06-09,Headlight & Taillight Rewiring,37.5,Mitte Cycle Works,Electrical contact repaired
+11,2026-06-10,Bottom Bracket Overhaul,70.0,Urban Mobility Hub,Bearings cleaned and re-greased
+12,2026-06-11,Cargo Rack Re-anchoring,48.0,Mitte Cycle Works,Reinforced mounting bolts installed
+13,2026-06-11,Full Drivetrain Replacement,140.0,Mitte Cycle Works,New chain and cassette installed
+14,2026-06-13,Annual Safety Inspection,127.5,Urban Mobility Hub,Full TUV and road-readiness compliance check
+15,2026-06-13,Wheel Truing & Spoke Tension,55.0,Spree E-Mobility,Rim alignment corrected
+16,2026-06-13,Emergency Brake Cable Swap,36.0,Volt Fleet Services,Inner cable and housing replaced
+17,2026-06-15,Brake Pad Replacement,85.5,Spree E-Mobility,Front and rear pads renewed
+18,2026-06-15,Battery Diagnostic,50.0,Volt Fleet Services,Capacity checked and cell balance verified
+19,2026-06-16,Annual Safety Inspection,125.0,Mitte Cycle Works,Full TUV and road-readiness compliance check
+20,2026-06-17,Bottom Bracket Overhaul,77.5,Volt Fleet Services,Bearings cleaned and re-greased
+21,2026-06-18,Full Drivetrain Replacement,147.5,Mitte Cycle Works,New chain and cassette installed
+22,2026-06-19,Battery Diagnostic,50.0,Spree E-Mobility,Capacity checked and cell balance verified
+23,2026-06-20,Brake Pad Replacement,80.5,Spree E-Mobility,Front and rear pads renewed
+24,2026-06-19,Motor Controller Firmware Update,40.0,Spree E-Mobility,ECU firmware updated to latest version
+25,2026-06-21,Throttle Sensor Calibration,44.5,Berlin Bike Care,Throttle sensor dead-zone calibrated
+26,2026-06-23,Cargo Rack Re-anchoring,53.0,Berlin Bike Care,Reinforced mounting bolts installed
+27,2026-06-22,Emergency Brake Cable Swap,36.0,Urban Mobility Hub,Inner cable and housing replaced
+28,2026-06-24,Tire Puncture Repair,32.5,Urban Mobility Hub,Tube replaced and tire inspected for debris
+29,2026-06-25,Suspension Fork Overhaul,110.0,Urban Mobility Hub,Wiper seals replaced and oil refilled
+30,2026-06-25,Wheel Truing & Spoke Tension,47.5,Volt Fleet Services,Rim alignment corrected
+31,2026-06-25,Chain & Gear Adjustment,55.0,Volt Fleet Services,Drivetrain cleaned and lubricated
+32,2026-06-26,Brake Pad Replacement,88.0,Mitte Cycle Works,Front and rear pads renewed
+33,2026-06-28,Throttle Sensor Calibration,42.0,Urban Mobility Hub,Throttle sensor dead-zone calibrated
+34,2026-06-28,Wheel Truing & Spoke Tension,45.0,Mitte Cycle Works,Rim alignment corrected
+35,2026-06-30,Tire Puncture Repair,37.5,Spree E-Mobility,Tube replaced and tire inspected for debris
+36,2026-06-30,Bottom Bracket Overhaul,75.0,Berlin Bike Care,Bearings cleaned and re-greased
+37,2026-07-01,Throttle Sensor Calibration,47.0,Mitte Cycle Works,Throttle sensor dead-zone calibrated
+38,2026-07-02,Emergency Brake Cable Swap,38.5,Urban Mobility Hub,Inner cable and housing replaced
+39,2026-07-02,Bottom Bracket Overhaul,77.5,Urban Mobility Hub,Bearings cleaned and re-greased
+40,2026-07-04,Suspension Fork Overhaul,115.0,Mitte Cycle Works,Wiper seals replaced and oil refilled
+41,2026-07-03,Throttle Sensor Calibration,42.0,Spree E-Mobility,Throttle sensor dead-zone calibrated
+42,2026-07-05,Bottom Bracket Overhaul,77.5,Mitte Cycle Works,Bearings cleaned and re-greased
+43,2026-07-05,Battery Diagnostic,45.0,Urban Mobility Hub,Capacity checked and cell balance verified
+44,2026-07-06,Chain & Gear Adjustment,57.5,Mitte Cycle Works,Drivetrain cleaned and lubricated
+45,2026-07-08,Annual Safety Inspection,122.5,Berlin Bike Care,Full TUV and road-readiness compliance check
+46,2026-07-09,Tire Puncture Repair,27.5,Volt Fleet Services,Tube replaced and tire inspected for debris
+47,2026-07-09,Tire Puncture Repair,35.0,Berlin Bike Care,Tube replaced and tire inspected for debris
+48,2026-07-10,Wheel Truing & Spoke Tension,45.0,Volt Fleet Services,Rim alignment corrected
+49,2026-07-11,Chain & Gear Adjustment,57.5,Spree E-Mobility,Drivetrain cleaned and lubricated
+50,2026-07-11,Cargo Rack Re-anchoring,48.0,Mitte Cycle Works,Reinforced mounting bolts installed
+51,2026-07-12,Wheel Truing & Spoke Tension,55.0,Urban Mobility Hub,Rim alignment corrected
+52,2026-07-13,Emergency Brake Cable Swap,41.0,Berlin Bike Care,Inner cable and housing replaced
+53,2026-07-15,Suspension Fork Overhaul,112.5,Urban Mobility Hub,Wiper seals replaced and oil refilled
+54,2026-07-15,Tire Puncture Repair,27.5,Urban Mobility Hub,Tube replaced and tire inspected for debris
+55,2026-07-17,Headlight & Taillight Rewiring,35.0,Mitte Cycle Works,Electrical contact repaired
+56,2026-07-18,Full Drivetrain Replacement,152.5,Volt Fleet Services,New chain and cassette installed
+57,2026-07-17,Battery Diagnostic,50.0,Berlin Bike Care,Capacity checked and cell balance verified
+58,2026-07-18,Tire Puncture Repair,30.0,Urban Mobility Hub,Tube replaced and tire inspected for debris
+59,2026-07-19,Emergency Brake Cable Swap,41.0,Berlin Bike Care,Inner cable and housing replaced
+60,2026-07-20,Brake Pad Replacement,93.0,Spree E-Mobility,Front and rear pads renewed
+61,2026-07-20,Throttle Sensor Calibration,37.0,Mitte Cycle Works,Throttle sensor dead-zone calibrated
+62,2026-07-22,Wheel Truing & Spoke Tension,45.0,Mitte Cycle Works,Rim alignment corrected
+63,2026-07-22,Cargo Rack Re-anchoring,53.0,Volt Fleet Services,Reinforced mounting bolts installed
+64,2026-07-24,Tire Puncture Repair,30.0,Mitte Cycle Works,Tube replaced and tire inspected for debris
+65,2026-07-25,Tire Puncture Repair,35.0,Spree E-Mobility,Tube replaced and tire inspected for debris
+66,2026-07-26,Emergency Brake Cable Swap,46.0,Urban Mobility Hub,Inner cable and housing replaced
+67,2026-07-25,Suspension Fork Overhaul,110.0,Urban Mobility Hub,Wiper seals replaced and oil refilled
+68,2026-07-28,Headlight & Taillight Rewiring,35.0,Mitte Cycle Works,Electrical contact repaired
+69,2026-07-27,Cargo Rack Re-anchoring,50.5,Spree E-Mobility,Reinforced mounting bolts installed
+70,2026-07-30,Tire Puncture Repair,30.0,Volt Fleet Services,Tube replaced and tire inspected for debris
+71,2026-07-31,Hydraulic Brake Bleed,65.0,Urban Mobility Hub,Mineral oil flushed and system bled
+72,2026-08-01,Emergency Brake Cable Swap,43.5,Volt Fleet Services,Inner cable and housing replaced
+73,2026-08-01,Tire Puncture Repair,37.5,Berlin Bike Care,Tube replaced and tire inspected for debris
+74,2026-08-02,Emergency Brake Cable Swap,41.0,Berlin Bike Care,Inner cable and housing replaced
+75,2026-08-02,Full Drivetrain Replacement,152.5,Urban Mobility Hub,New chain and cassette installed
+76,2026-08-05,Battery Diagnostic,52.5,Mitte Cycle Works,Capacity checked and cell balance verified
+77,2026-08-04,Motor Controller Firmware Update,47.5,Urban Mobility Hub,ECU firmware updated to latest version
+78,2026-08-06,Chain & Gear Adjustment,55.0,Berlin Bike Care,Drivetrain cleaned and lubricated
+79,2026-08-07,Annual Safety Inspection,122.5,Urban Mobility Hub,Full TUV and road-readiness compliance check
+80,2026-08-08,Annual Safety Inspection,115.0,Volt Fleet Services,Full TUV and road-readiness compliance check
+81,2026-08-08,Headlight & Taillight Rewiring,37.5,Spree E-Mobility,Electrical contact repaired
+82,2026-08-10,Headlight & Taillight Rewiring,42.5,Mitte Cycle Works,Electrical contact repaired
+83,2026-08-10,Hydraulic Brake Bleed,70.0,Urban Mobility Hub,Mineral oil flushed and system bled
+84,2026-08-10,Emergency Brake Cable Swap,43.5,Volt Fleet Services,Inner cable and housing replaced
+85,2026-08-13,Emergency Brake Cable Swap,36.0,Spree E-Mobility,Inner cable and housing replaced
+86,2026-08-12,Wheel Truing & Spoke Tension,50.0,Urban Mobility Hub,Rim alignment corrected
+87,2026-08-13,Throttle Sensor Calibration,42.0,Mitte Cycle Works,Throttle sensor dead-zone calibrated
+88,2026-08-16,Suspension Fork Overhaul,117.5,Spree E-Mobility,Wiper seals replaced and oil refilled
+89,2026-08-16,Annual Safety Inspection,127.5,Urban Mobility Hub,Full TUV and road-readiness compliance check
+90,2026-08-17,Headlight & Taillight Rewiring,30.0,Urban Mobility Hub,Electrical contact repaired
+91,2026-08-17,Annual Safety Inspection,115.0,Spree E-Mobility,Full TUV and road-readiness compliance check
+92,2026-08-18,Cargo Rack Re-anchoring,48.0,Mitte Cycle Works,Reinforced mounting bolts installed
+93,2026-08-19,Full Drivetrain Replacement,145.0,Volt Fleet Services,New chain and cassette installed
+94,2026-08-20,Brake Pad Replacement,85.5,Berlin Bike Care,Front and rear pads renewed
+95,2026-08-21,Cargo Rack Re-anchoring,48.0,Spree E-Mobility,Reinforced mounting bolts installed
+96,2026-08-21,Throttle Sensor Calibration,47.0,Mitte Cycle Works,Throttle sensor dead-zone calibrated
+97,2026-08-23,Annual Safety Inspection,122.5,Spree E-Mobility,Full TUV and road-readiness compliance check
+98,2026-08-23,Annual Safety Inspection,115.0,Volt Fleet Services,Full TUV and road-readiness compliance check
+99,2026-08-25,Tire Puncture Repair,27.5,Volt Fleet Services,Tube replaced and tire inspected for debris
+100,2026-08-26,Annual Safety Inspection,120.0,Spree E-Mobility,Full TUV and road-readiness compliance check
+101,2026-08-26,Wheel Truing & Spoke Tension,57.5,Mitte Cycle Works,Rim alignment corrected
+102,2026-08-27,Wheel Truing & Spoke Tension,52.5,Volt Fleet Services,Rim alignment corrected
+103,2026-08-29,Hydraulic Brake Bleed,65.0,Berlin Bike Care,Mineral oil flushed and system bled
+104,2026-08-28,Headlight & Taillight Rewiring,37.5,Volt Fleet Services,Electrical contact repaired
+105,2026-08-29,Chain & Gear Adjustment,55.0,Urban Mobility Hub,Drivetrain cleaned and lubricated
+106,2026-08-31,Hydraulic Brake Bleed,62.5,Urban Mobility Hub,Mineral oil flushed and system bled
+107,2026-09-01,Emergency Brake Cable Swap,41.0,Berlin Bike Care,Inner cable and housing replaced
+108,2026-09-01,Suspension Fork Overhaul,115.0,Mitte Cycle Works,Wiper seals replaced and oil refilled
+109,2026-09-01,Tire Puncture Repair,32.5,Volt Fleet Services,Tube replaced and tire inspected for debris
+110,2026-09-03,Throttle Sensor Calibration,37.0,Urban Mobility Hub,Throttle sensor dead-zone calibrated
